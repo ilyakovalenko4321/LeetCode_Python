@@ -43,3 +43,4 @@ x = StrongPasswordChecker
 y = x.steps('A11sstt')
 print(y)
 
+print('FU')
