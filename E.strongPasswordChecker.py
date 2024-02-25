@@ -42,3 +42,4 @@ class StrongPasswordChecker:
 x = StrongPasswordChecker
 y = x.steps('A11sstt')
 print(y)
+
